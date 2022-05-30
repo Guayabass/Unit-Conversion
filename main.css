@@ -71,10 +71,11 @@ a:hover{
 .para{
   color: white;
   font-size: 16px;
+  text-align: center;
   font-weight: 600;
 }
 
-.sub-para {
+.sub-para-length, .sub-para-volume, .sub-para-mass {
   color: #D2D2D2;
   text-align: center;
   font-size: 14px;
